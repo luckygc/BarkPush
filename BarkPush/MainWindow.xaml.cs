@@ -98,7 +98,7 @@ namespace BarkPush
                 }
 
             }
-            MessageBox.Show(Copy);
+            
 
             if (!"".Equals(tbxUrl.Text))
             {
