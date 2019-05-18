@@ -18,3 +18,23 @@ C:\Users\chenw\source\repos\BarkPush\BarkPush\bin\Debug\BarkPush.application
 C:\Users\chenw\source\repos\BarkPush\BarkPush\obj\Debug\BarkPush.csprojAssemblyReference.cache
 C:\Users\chenw\source\repos\BarkPush\BarkPush\obj\Debug\BarkPush.exe.manifest
 C:\Users\chenw\source\repos\BarkPush\BarkPush\obj\Debug\BarkPush.application
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\bin\Debug\BarkPush.exe.manifest
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\bin\Debug\BarkPush.application
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\bin\Debug\BarkPush.exe
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\bin\Debug\BarkPush.pdb
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.csprojAssemblyReference.cache
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\Simple Styles.baml
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\MainWindow.g.cs
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\App.g.cs
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush_MarkupCompile.cache
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush_MarkupCompile.lref
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\App.baml
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\MainWindow.baml
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.g.resources
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.Properties.Resources.resources
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.csproj.GenerateResource.cache
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.csproj.CoreCompileInputs.cache
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.exe.manifest
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.application
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.exe
+C:\Users\chenw\Desktop\BarkPush\BarkPush\BarkPush\obj\Debug\BarkPush.pdb
