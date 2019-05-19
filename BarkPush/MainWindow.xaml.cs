@@ -88,7 +88,7 @@ namespace BarkPush
                 {
                     Content = "/链接已复制";
                     String copyurl = tbxContent.Text.ToString();
-                    Copy = "automaticallyCopy=1&copy="+ copyurl;
+                    Copy = "automaticallyCopy=1&copy=" + copyurl;
                     ;
 
                 }
@@ -98,7 +98,7 @@ namespace BarkPush
                 }
 
             }
-            
+
 
             if (!"".Equals(tbxUrl.Text))
             {
@@ -125,12 +125,12 @@ namespace BarkPush
             String push = "https://api.day.app/" + tbxKey.Text + title + Content + param;
 
 
-            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(push);
-            HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
-            Stream stream = resp.GetResponseStream();
-            String result = "";
             try
             {
+                HttpWebRequest req = (HttpWebRequest)WebRequest.Create(push);
+                HttpWebResponse resp = (HttpWebResponse)req.GetResponse();
+                Stream stream = resp.GetResponseStream();
+                String result = "";
                 //获取内容
                 using (StreamReader reader = new StreamReader(stream))
                 {
@@ -145,15 +145,13 @@ namespace BarkPush
                     }
 
                 }
-            }
-            catch (Exception ee)
-            {
-                MessageBox.Show(ee.ToString());
-            }
-            finally
-            {
                 stream.Close();
             }
+            catch (Exception)
+            {
+                MessageBox.Show("网络或服务器错误");
+            }
+           
 
         }
 
