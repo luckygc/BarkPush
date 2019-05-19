@@ -105,7 +105,7 @@ namespace BarkPush
                 Url = "url=" + tbxUrl.Text;
             }
 
-            if (chboxCopy.IsChecked == false && !"".Equals(tbxUrl.Text))
+            if (chboxCopy.IsChecked == true && !"".Equals(tbxUrl.Text))
             {
                 param = "?" + Url + "&" + Copy;
             }
